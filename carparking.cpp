@@ -95,3 +95,84 @@ int main()
   }
   return 0;
 }
+
+
+
+///////////////////OUTPUT IN THE TERMINAL//////////////////////////////
+
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
+1
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
+2
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
+3
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
+1
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
+2
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
+3
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
+4
+******************************************************
+The total amount =1200
+The total number of vehicles parked =6
+The total number of rickshaw parked =2
+The total number of car parked =2
+The total number of bus parked =2
+*******************************************************
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
+5
+**********************************************************
+RECORD DELETED
+**********************************************************
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
+4
+******************************************************
+The total amount =0
+The total number of vehicles parked =0
+The total number of rickshaw parked =0
+The total number of car parked =0
+The total number of bus parked =0
+*******************************************************
+Press 1 for rickshaw
+Press 2 for car
+Press 3 for bus
+Press 4 to show the record
+Press 5 to delete the record
